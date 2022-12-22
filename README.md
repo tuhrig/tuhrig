@@ -13,6 +13,32 @@ In my free time, I like to practice [BJJ](https://www.psv-karlsruhe.de/brazilian
 
 You find me on [XING](https://www.xing.com/profiles/Thomas_Uhrig7) and [LinkedIn](http://www.linkedin.com/pub/thomas-uhrig/85/6bb/39) as well as on my personal blog at [https://tuhrig.de](https://tuhrig.de).
 
+### 🛠 &nbsp;Tech Stack
+
+![Java](https://img.shields.io/badge/-Java-fff?&logo=Java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-fff?&logo=Kotlin)
+![Spring](https://img.shields.io/badge/-Spring-fff?&logo=Spring)
+![AWS](https://img.shields.io/badge/-AWS-fff?&logo=AWS)
+![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker)
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/tuhrig">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tuhrig&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuhrig&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://tuhrig.de"><img src="https://img.shields.io/badge/-tuhrig.de-1769FF?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/tuhrig"><img src="https://img.shields.io/badge/-Thomas%20Uhrig-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:mail@tuhrig.de"><img src="https://img.shields.io/badge/-mail@tuhrig.de-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/dieser.tomsky"><img src="https://img.shields.io/badge/-@dieser.tomsky-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
+
 <!--
 **tuhrig/tuhrig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
