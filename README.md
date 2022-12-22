@@ -5,7 +5,9 @@ My name is Thomas and I'm a software developer based by [Karlsruhe](https://de.w
 I love to build microservices and to write code which is easy to read.
 Currently, I'm working for [Bringmeister GmbH](http://bringmeister.de) fully remote.
 
-<img class="no-border" src="/images/avatar-round.png">
+<center>
+<img class="no-border" src="https://tuhrig.github.io/images/avatar-round.png">
+</center>
 
 I studied [Computer Science and Media](http://www.mi.hdm-stuttgart.de/csm) at the [Media University (HdM)](http://www.hdm-stuttgart.de "HdM Stuttgart") in [Stuttgart](https://www.google.com/maps/place/Stuttgart,+Deutschland), Germany, where I finished my Bachelor's degree (Bachelor of Science, [📄](/assets/pdf/Bachelor-Thesis.pdf)) in 2012 and my Master's degree (Master of Science, [📄](/assets/pdf/Master-Thesis.pdf)) in 2014.
 
